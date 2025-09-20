@@ -3,6 +3,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;" align="center">
     <img src="./images/Flutter.png" alt="Flutter" width="100" height="100" style="margin: 20px 50px;">
+    <div style="width:100px; height:100px;"></div>
     <img src="./images/Laravel.png" alt="Laravel" width="100" height="100">
     <img src="./images/mysql.png" alt="MySQL" width="100" height="100">
     <img src="./images/objectBox.png" alt="ObjectBox" width="100" height="100">
