@@ -1,21 +1,32 @@
-# UniChat - Secure End-to-End Messaging System
+# UniChat - Secure Messaging System
 
-## Introduction & Context
+<div class="flex flex-wrap">
+    <img src="./images/Flutter.png" alt="Flutter" width="100" height="100">
+    <img src="./images/Laravel.png" alt="Laravel" width="100" height="100">
+    <img src="./images/mysql.png" alt="MySQL" width="100" height="100">
+    <img src="./images/objectBox.png" alt="ObjectBox" width="100" height="100">
+    <img src="./images/pusher.png" alt="Pusher" width="100" height="100">
+</div>
 
-### Security of Communications
+## Overview
 
-In the digital age, securing communications is paramount to protecting user data from intrusions, interceptions, and leaks. With the increase in personal, professional, and financial exchanges, it's critical to ensure that only authorized parties have access to sensitive content. Traditional server-side encryption methods often fall short, as data can be exposed during transit or while stored on servers. End-to-End Encryption (E2EE) presents an effective solution by encrypting messages directly on the sender's device and only decrypting them on the recipient's device, ensuring both the confidentiality and integrity of communications.
+**UniChat** is a secure messaging app that implements **End-to-End Encryption (E2EE)** to ensure the confidentiality and integrity of communications. The app is designed to protect users' messages from unauthorized access, both during transit and storage.
 
-### Project Objectives
+## Key Features
 
-The primary goal of the **UniChat** project is to develop practical skills in securing communications, based on knowledge gained from coursework and personal research. The project aims to implement End-to-End Encryption to ensure the privacy of conversations while offering a seamless user experience with real-time messaging features, contact management, and other functionalities—all within a secure and robust architecture. This system will continue to evolve and improve over time.
+- **End-to-End Encryption**: Messages are encrypted on the sender's device and only decrypted on the recipient's device.
+- **Real-time Messaging**: Powered by **Pusher** for instant delivery of messages.
+- **Cross-Platform**: Built with **Flutter** for a responsive, mobile experience on iOS and Android.
+- **Secure Backend**: **Laravel** is used for managing users, authentication, and secure data storage.
 
-### Technologies Used
+## Technologies Used
 
-To build **UniChat**, a combination of complementary technologies was utilized:
+- **Flutter**: Cross-platform mobile framework
+- **Laravel**: Backend framework for user management and secure storage
+- **Pusher**: Real-time messaging system
 
-* **Flutter**: Used to develop a modern, responsive, and cross-platform mobile interface.
-* **Laravel**: Provides a secure backend structure for user management, authentication, and secure data storage.
-* **Pusher**: Enables real-time messaging, ensuring that messages are delivered quickly and reliably between users.
+## Goals
 
-The integration of these technologies ensures a balance of security, performance, and usability in the application.
+- Implement End-to-End Encryption for privacy.
+- Provide a user-friendly messaging experience.
+- Continuously improve security and functionality.
