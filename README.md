@@ -1,7 +1,7 @@
 # UniChat - Secure Messaging System
 
 
-<div style="" align="center">
+<div align="center">
     <img src="./images/Flutter.png" alt="Flutter" width="100" height="100" style="margin: 20px;">
     <img src="./images/Laravel.png" alt="Laravel" width="100" height="100" style="margin: 20px;">
     <img src="./images/mysql.png" alt="MySQL" width="100" height="100" style="margin: 20px;">
