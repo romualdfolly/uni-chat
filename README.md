@@ -1,6 +1,6 @@
 # UniChat - Secure Messaging System
 
-<div class="flex flex-wrap">
+<div class="flex justify-content-evenly flex-wrap">
     <img src="./images/Flutter.png" alt="Flutter" width="100" height="100">
     <img src="./images/Laravel.png" alt="Laravel" width="100" height="100">
     <img src="./images/mysql.png" alt="MySQL" width="100" height="100">
